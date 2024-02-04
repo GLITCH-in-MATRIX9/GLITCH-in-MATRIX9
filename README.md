@@ -1,16 +1,20 @@
 ### Hi there 👋
+# I am Anjali Dass👀
 
-<!--
-**GLITCH-in-MATRIX9/GLITCH-in-MATRIX9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student passionate about Web Development, committed to community building, and constantly evolving on GitHub. 
 
-Here are some ideas to get you started:
+## About me 🌐
+- 🔭 Working on my front-end skills
+- 🌱 Passionate about UI/UX
+- 👯 Let's collaborate for front-end.
+- 📫 Let's connect - anjali95912@yahoo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Programming Languages: JAVA, Html, CSS, Javascript, React.js,
+- Tools & Technologies: Figma, Blender, Canva,Adobe Photoshop and illustrator
+
+- ## 🌟 Fun Facts
+
+- 📚 Book are my love.
+- 🤑 Love reading about the stock market 
