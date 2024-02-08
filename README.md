@@ -11,7 +11,7 @@ B.Tech CSE student passionate about Web Development, committed to community buil
 
 ## 🚀 Skills
 
-- Programming Languages: JAVA, Html, CSS, Javascript, React.js,
+- Programming Languages: JAVA, Html(Yeahhh ik html is not a programming language), CSS, Javascript, React.js,
 - Tools & Technologies: Figma, Blender, Canva,Adobe Photoshop and illustrator
 
 - ## 🌟 Fun Facts
