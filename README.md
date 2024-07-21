@@ -17,4 +17,7 @@ B.Tech CSE student passionate about Web Development, committed to community buil
 - ## 🌟 Fun Facts
 
 - 📚 Book are my love.
-- 🤑 Love reading about the stock market 
+- 🤑 Love reading about the stock market
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=theme_name)
