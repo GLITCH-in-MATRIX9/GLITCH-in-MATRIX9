@@ -20,4 +20,3 @@ B.Tech CSE student passionate about Web Development, committed to community buil
 - 🤑 Love reading about the stock market
 
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLITCH-in-MATRIX9&layout=compact&theme=blue-green)
