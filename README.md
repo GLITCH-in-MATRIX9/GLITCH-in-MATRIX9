@@ -19,4 +19,6 @@ B.Tech CSE student passionate about Web Development, committed to community buil
 - 📚 Book are my love.
 - 🤑 Love reading about the stock market
 
+- [![An image of @glitchinmatrix9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glitchinmatrix9)](https://holopin.io/@glitchinmatrix9)
+
 
