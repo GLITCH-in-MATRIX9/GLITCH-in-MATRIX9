@@ -1,23 +1,38 @@
 ### Hi there 👋
-# I am Anjali Dass👀
+# I'm Anjali Dass 👀
 
-B.Tech CSE student passionate about Web Development, committed to community building, and constantly evolving on GitHub. 
+A **B.Tech CSE student** with a passion for **Web Development**, **UI/UX**, **animation**, and **community building**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together! 💻✨
 
-## About me 🌐
-- 🔭 Working on my front-end skills
-- 🌱 Passionate about UI/UX
-- 👯 Let's collaborate for front-end.
-- 📫 Let's connect - anjali95912@yahoo.com
+---
+
+## About Me 🌐
+- 🔭 Currently enhancing my front-end and animation skills.
+- 🌱 Deeply invested in creating intuitive and user-friendly UI/UX.
+- 👯 Open to collaborations on front-end, animations, and creative projects.
+- 📫 Reach out: [anjali95912@yahoo.com](mailto:anjali95912@yahoo.com)
+
+---
 
 ## 🚀 Skills
 
-- Programming Languages: JAVA, Html(Yeahhh ik html is not a programming language), CSS, Javascript, React.js,
-- Tools & Technologies: Figma, Blender, Canva,Adobe Photoshop and illustrator
+### Programming & Development:
+- **Languages**: Java, HTML (Yes, I know HTML isn’t a programming language!), CSS, JavaScript, React.js
+- **Animation**: GSAP, Lottie
+- **UI/UX & Design**: Prototyping, wireframing, user flow creation, color theory, and responsiveness in Figma
 
-- ## 🌟 Fun Facts
+### Design Tools & Technologies:
+- **Design**: Figma, Blender, Canva, Adobe Photoshop, Illustrator
+- **Packaging & Branding**: Expertise in creating cohesive packaging designs and brand visuals
+- **Creative Media**: Graphic design, logo creation, digital illustration
 
-- 📚 Book are my love.
-- 🤑 Love reading about the stock market
+---
+
+## 🌟 Fun Facts
+
+- 📚 Books are my true escape.
+- 🤑 I love learning about the stock market.
+- 🌈 Constantly improving my skills to bring more life to my projects!
+
 
 - [![An image of @glitchinmatrix9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glitchinmatrix9)](https://holopin.io/@glitchinmatrix9)
 
