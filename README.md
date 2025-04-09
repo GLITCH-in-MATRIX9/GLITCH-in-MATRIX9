@@ -6,19 +6,22 @@ A **B.Tech CSE student** with a passion for **Web Development**, **UI/UX**, **an
 ---
 
 ## About Me 🌐
-- 🔭 Currently enhancing my front-end and animation skills.
+- 🔭 Currently enhancing my backend-end and animation skills.
 - 🌱 Deeply invested in creating intuitive and user-friendly UI/UX.
-- 👯 Open to collaborations on front-end, animations, and creative projects.
+- 👯 Open to collaborations on Web Developement, and creative projects.
 - 📫 Reach out: [anjali95912@yahoo.com](mailto:anjali95912@yahoo.com)
 
 ---
 
 ## 🚀 Skills
 
-### Programming & Development:
-- **Languages**: Java, HTML (Yes, I know HTML isn’t a programming language!), CSS, JavaScript, React.js
-- **Animation**: GSAP, Lottie
-- **UI/UX & Design**: Prototyping, wireframing, user flow creation, color theory, and responsiveness in Figma
+### 💻 Programming & Development
+- **Languages & Frameworks**: Java, HTML, CSS, JavaScript, React.js, Next.js  
+  <sub>(Yep, I know HTML isn’t technically a programming language 😄)</sub>
+- **Backend Technologies**: Node.js, Express.js, MongoDB, Firebase, REST APIs, basic SQL  
+- **Animation Libraries**: GSAP, Lottie  
+- **UI/UX & Design Tools**: Proficient in prototyping, wireframing, creating user flows, color theory, and responsive design using Figma
+
 
 ### Design Tools & Technologies:
 - **Design**: Figma, Blender, Canva, Adobe Photoshop, Illustrator
