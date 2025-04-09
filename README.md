@@ -32,8 +32,8 @@ A **B.Tech CSE student** with a passion for **Web Development**, **UI/UX**, **an
 
 ## 🌟 Fun Facts
 
-- 📚 Books are my true escape.
-- 🤑 I love learning about the stock market.
+- 📚 I love diving into new techs and keeping myself busy.
+- 🤑 Probably watched Transformers 25 times till now 
 - 🌈 Constantly improving my skills to bring more life to my projects!
 
 
