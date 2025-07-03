@@ -30,11 +30,11 @@ A **B.Tech CSE student** with a passion for **Web Development**, **UI/UX**, **an
 
 ---
 
-## 🌟 Fun Facts
+## 🌟 Fun Facts about me 
 
-- 📚 I love diving into new techs and keeping myself busy.
-- 🤑 Probably watched Transformers 25 times till now 
-- 🌈 Constantly improving my skills to bring more life to my projects!
+- 📚 I am a Potterhead.
+- 🤑 Probably watched Transformers 50 times. 
+- 🌈 My mother tongue doesn't have a written script.
 
 
 - [![An image of @glitchinmatrix9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/glitchinmatrix9)](https://holopin.io/@glitchinmatrix9)
