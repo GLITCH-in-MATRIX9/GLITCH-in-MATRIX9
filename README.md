@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Anjali Dass 👀
 
-A **B.Tech CSE student** with a passion for **Web Development** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together! 💻✨
+A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together! 💻✨
 
 ---
 
