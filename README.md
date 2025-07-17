@@ -16,7 +16,6 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
 ## 🚀 Skills
 
 ### 💻 Programming & Development
--
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -35,11 +34,21 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 
 
-### Design Tools & Technologies:
-- **Design**: Figma, Canva
-- **Packaging & Branding**: Expertise in creating cohesive packaging designs and brand visuals
-- **Creative Media**: Graphic design, logo creation, digital illustration
+## 🎨 Design Tools & Technologies
 
+### 🛠️ Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+### 🧵 Expertise
+
+- **Packaging & Branding**  
+  Creating cohesive brand visuals, print-ready packaging designs, and identity systems
+
+- **Creative Media**  
+  Logo creation, graphic design, digital illustrations, and visual storytelling
 ---
 
 ## 🌟 Fun Facts about me 
