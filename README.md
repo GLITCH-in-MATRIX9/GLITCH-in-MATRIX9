@@ -3,10 +3,11 @@
 
 A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together!
 
+I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 ---
 
 ## About Me 🌐
-- 🔭 Currently a freelancer with 7+ projects in 1.5 year.
+- 🔭 Currently a Developer with 7+ projects in 1.5 years.
 - 🌱 Deeply invested in creating intuitive and user-friendly UI/UX.
 - 👯 Open to collaborations on Web Development and creative projects.
 - 📫 Reach out: [anjali95912@yahoo.com](mailto:anjali95912@yahoo.com)
@@ -38,24 +39,6 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
 </p>
 
 
-
-## 🎨 Design Tools & Technologies
-
-### 🛠️ Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-### 🧵 Expertise
-
-- **Packaging & Branding**  
-  Creating cohesive brand visuals, print-ready packaging designs, and identity systems
-
-- **Creative Media**  
-  Logo creation, graphic design, digital illustrations, and visual storytelling
----
-
 ## 🌟 Fun Facts about me 
 
 - 📚 I am a Potterhead.
@@ -66,31 +49,43 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
 ---
 ## 📁 Featured Projects
 
-### 🧠 GitGoblin – AI-Powered Developer Workflow Assistant  
+### 🧠 [GitGoblin – AI-Powered Developer Workflow Assistant] 
 **Stack:** MERN, OpenAI API, GitHub API, ESLint, Socket.IO  
-- Built a tool for smarter onboarding, code navigation, and auto-refactoring suggestions  
-- Integrated GPT-based recommendations, AST parsing, and GitHub workflows
+- Developed a full-stack tool to streamline developer onboarding, PR reviews, and codebase understanding in collaborative environments  
+- Implemented GPT-powered insights that auto-generate summaries, suggest refactors, and detect potential bugs at a file and function level  
+- Integrated GitHub APIs for real-time repository data, ESLint for code health feedback, and Socket.IO for live sync between devs  
+- Parsed abstract syntax trees (ASTs) to deliver intelligent code structure analysis and in-context navigation  
+🔗 [View Repository](https://github.com/yourusername/gitgoblin)
 
 ---
 
-### 💪 FitBy – AI-Driven Fitness and Wellness Tracker  
+### 💪 [FitBy – AI-Driven Fitness and Wellness Tracker]  
 **Stack:** React, Node.js, MongoDB, TensorFlow.js  
-- Personalized fitness tracker with dynamic health suggestions and ML pose analysis  
-- Designed intuitive user interface with responsive dashboards
+- Engineered a fitness and lifestyle platform offering personalized workout plans, posture correction, and nutrition tracking  
+- Leveraged TensorFlow.js for pose estimation and activity recognition through real-time webcam input  
+- Designed and implemented responsive React UI with dashboard-based analytics and user progress tracking  
+- Built secure backend with Node.js and MongoDB to store routines, metrics, and personalized suggestions using REST APIs  
+🔗 [View Repository](https://github.com/yourusername/fitby)
 
 ---
 
-### 📬 SentVia – Smart Messaging & Email Automation Platform  
-**Stack:** Node.js, React, PostgreSQL, Mail APIs  
-- Automated email workflows with bulk messaging, attachment parsing, and sentiment tagging  
-- Supported campaign-level analytics and scheduling
+### 🍊 [Quench – The Juice Brand (Brand Identity & Packaging Design)]
+**Tools:** Figma, Illustrator, Canva, Photoshop  
+- Created a vibrant brand identity for *Quench*, a juice label targeting urban Gen Z and health-conscious audiences  
+- Designed packaging prototypes including labels, bottle wraps, flavor-specific color palettes, and iconography  
+- Developed logo systems, typography guidelines, and marketing collateral for both digital and print use  
+- Built mockups and visuals for e-commerce listings, store shelves, and social media rollouts  
+🔗 [View Portfolio](https://github.com/yourusername/quench)
 
 ---
 
-### 🌐 IoT Model on Raspberry Pi & Pico  
-**Stack:** Python, MQTT, Firebase, Raspberry Pi SDK  
-- Built a real-time sensor network dashboard using Raspberry Pi and Pico  
-- Enabled wireless data capture and remote alerting via Firebase and MQTT
+### 🌐 [IoT Sensor Dashboard – Raspberry Pi & Pico Model]
+**Stack:** Python, MQTT, Firebase, Raspberry Pi SDK, MicroPython  
+- Created a live dashboard that monitors environmental data (temperature, humidity, motion) using Raspberry Pi and RP2040 Pico  
+- Implemented MicroPython-based firmware on Pico to collect sensor data and communicate via MQTT  
+- Built backend logic in Python to aggregate readings and push alerts through Firebase Cloud Messaging  
+- Achieved seamless low-latency communication across devices, with real-time plotting on a hosted web dashboard  
+🔗 [View Repository](https://github.com/yourusername/iot-model)
 
 ---
 
