@@ -91,8 +91,8 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 
 ## 📊 GitHub Stats
 
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLITCH-in-MATRIX9&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GLITCH-in-MATRIX9&layout=compact&theme=radical)
 
 
 
