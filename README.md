@@ -32,7 +32,7 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="55" height="55"/>
 </p>
