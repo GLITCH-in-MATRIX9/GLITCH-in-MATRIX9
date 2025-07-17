@@ -18,7 +18,7 @@ A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **U
 ### 💻 Tools I work on
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg" alt="C++" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
