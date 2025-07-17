@@ -54,7 +54,7 @@ I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webf
 - Developed a full-stack tool to streamline developer onboarding, PR reviews, and codebase understanding in collaborative environments  
 - Implemented GPT-powered insights that auto-generate summaries, suggest refactors, and detect potential bugs at a file and function level  
 - Integrated GitHub APIs for real-time repository data.  
-🔗 [View Repository](https://github.com/yourusername/gitgoblin)
+
 
 ---
 
@@ -64,11 +64,11 @@ I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webf
 - Leveraged TensorFlow.js for pose estimation and activity recognition through real-time webcam input  
 - Designed and implemented a responsive React UI with dashboard-based analytics and user progress tracking  
 - Built secure backend with Node.js and MongoDB to store routines, metrics, and personalised suggestions using REST APIs  
-🔗 [View Repository](https://github.com/yourusername/fitby)
+
 
 ---
 
-### 🍊 [Quench – The Juice Brand Website](https://quenchbrand.com)  
+### 🍊 [Quench – The Juice Brand Website]
 **Skills Used:** Brand Identity Design, UI/UX, Web Development, Responsive Layouts, Visual Storytelling  
 **Tech Stack:** HTML, CSS, JavaScript  
 **Tools:** Figma, Adobe Illustrator, Canva, Photoshop  
@@ -86,7 +86,7 @@ I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webf
 - Implemented MicroPython-based firmware on Pico to collect sensor data and communicate via MQTT  
 - Built backend logic in Python to aggregate readings and push alerts through Firebase Cloud Messaging  
 - Achieved seamless low-latency communication across devices, with real-time plotting on a hosted web dashboard  
-🔗 [View Repository](https://github.com/yourusername/iot-model)
+
 
 ---
 
