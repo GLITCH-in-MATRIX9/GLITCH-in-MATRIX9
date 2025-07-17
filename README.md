@@ -37,6 +37,7 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="55" height="55"/>
 </p>
 
+---
 
 ## 🌟 Fun Facts about me 
 
@@ -44,8 +45,8 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 - 🤑 Probably watched Transformers 50 times. 
 - 🌈 My mother tongue doesn't have a written script.
 
-
 ---
+
 ## 📁 Featured Projects
 
 ### 🧠 [GitGoblin – AI-Powered Developer Workflow Assistant] 
