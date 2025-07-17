@@ -50,38 +50,39 @@ I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webf
 ## Featured Projects
 
 ### 🧠 [GitGoblin – AI-Powered Developer Workflow Assistant] 
-**Stack:** MERN, OpenAI API, GitHub API, ESLint, Socket.IO  
+**Stack:** MERN, OpenAI API, GitHub API
 - Developed a full-stack tool to streamline developer onboarding, PR reviews, and codebase understanding in collaborative environments  
 - Implemented GPT-powered insights that auto-generate summaries, suggest refactors, and detect potential bugs at a file and function level  
-- Integrated GitHub APIs for real-time repository data, ESLint for code health feedback, and Socket.IO for live sync between devs  
-- Parsed abstract syntax trees (ASTs) to deliver intelligent code structure analysis and in-context navigation  
+- Integrated GitHub APIs for real-time repository data.  
 🔗 [View Repository](https://github.com/yourusername/gitgoblin)
 
 ---
 
 ### 💪 [FitBy – AI-Driven Fitness and Wellness Tracker]  
 **Stack:** React, Node.js, MongoDB, TensorFlow.js  
-- Engineered a fitness and lifestyle platform offering personalized workout plans, posture correction, and nutrition tracking  
+- Engineered a fitness and lifestyle platform offering personalised workout plans, posture correction, and nutrition tracking  
 - Leveraged TensorFlow.js for pose estimation and activity recognition through real-time webcam input  
-- Designed and implemented responsive React UI with dashboard-based analytics and user progress tracking  
-- Built secure backend with Node.js and MongoDB to store routines, metrics, and personalized suggestions using REST APIs  
+- Designed and implemented a responsive React UI with dashboard-based analytics and user progress tracking  
+- Built secure backend with Node.js and MongoDB to store routines, metrics, and personalised suggestions using REST APIs  
 🔗 [View Repository](https://github.com/yourusername/fitby)
 
 ---
 
-### 🍊 [Quench – The Juice Brand (Brand Identity & Packaging Design)]
-**Tools:** Figma, Illustrator, Canva, Photoshop  
-- Created a vibrant brand identity for *Quench*, a juice label targeting urban Gen Z and health-conscious audiences  
-- Designed packaging prototypes including labels, bottle wraps, flavor-specific color palettes, and iconography  
-- Developed logo systems, typography guidelines, and marketing collateral for both digital and print use  
-- Built mockups and visuals for e-commerce listings, store shelves, and social media rollouts  
-🔗 [View Portfolio](https://github.com/yourusername/quench)
+### 🍊 [Quench – The Juice Brand Website](https://quenchbrand.com)  
+**Skills Used:** Brand Identity Design, UI/UX, Web Development, Responsive Layouts, Visual Storytelling  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Tools:** Figma, Adobe Illustrator, Canva, Photoshop  
+- Designed and developed the website for *Quench*, a vibrant juice brand targeting urban Gen Z and health-conscious consumers  
+- Created full visual identity: logo, typography, colour palette, and packaging designs aligned with brand values  
+- Built a clean, responsive website using semantic HTML, custom CSS, and vanilla JavaScript for interactivity  
+- Delivered optimised layouts, mobile responsiveness, and media-rich sections to support seasonal campaigns and product rollouts  
+
 
 ---
 
 ### 🌐 [IoT Sensor Dashboard – Raspberry Pi & Pico Model]
 **Stack:** Python, MQTT, Firebase, Raspberry Pi SDK, MicroPython  
-- Created a live dashboard that monitors environmental data (temperature, humidity, motion) using Raspberry Pi and RP2040 Pico  
+- Created a live dashboard that monitors environmental data (temperature, humidity, PIR, IR , DHT11, LDR ) using Raspberry Pi and RP2020 Pico  
 - Implemented MicroPython-based firmware on Pico to collect sensor data and communicate via MQTT  
 - Built backend logic in Python to aggregate readings and push alerts through Firebase Cloud Messaging  
 - Achieved seamless low-latency communication across devices, with real-time plotting on a hosted web dashboard  
