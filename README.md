@@ -4,6 +4,7 @@
 A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together!
 
 I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
+
 ---
 
 ## About Me 🌐
@@ -14,9 +15,7 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 
 ---
 
-## 🚀 Skills
-
-### 💻 Tools I work on
+## 💻 Tools I work on
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="55" height="55"/>
