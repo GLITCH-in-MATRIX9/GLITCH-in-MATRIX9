@@ -1,9 +1,9 @@
-### Hi there 👋
-# I'm Anjali Dass 👀
+### Hi there
+# I'm Anjali Dass
 
 A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together!
 
-I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
+I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webflow.io/)
 
 ---
 
@@ -15,7 +15,7 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 
 ---
 
-## 💻 Tools I work on
+## Tools I work on  
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="55" height="55"/>
@@ -39,7 +39,7 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 
 ---
 
-## 🌟 Fun Facts about me 
+## Fun Facts about me  
 
 - 📚 I am a Potterhead.
 - 🤑 Probably watched Transformers 50 times. 
@@ -47,7 +47,7 @@ I'm a freelancer as well — [📬 Catch me up](https://anjalidass.webflow.io/)
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
 ### 🧠 [GitGoblin – AI-Powered Developer Workflow Assistant] 
 **Stack:** MERN, OpenAI API, GitHub API, ESLint, Socket.IO  
