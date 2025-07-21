@@ -82,7 +82,7 @@ I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webf
 
 ### 🌐 [IoT Sensor Dashboard – Raspberry Pi & Pico Model]
 **Stack:** Python, MQTT, Firebase, Raspberry Pi SDK, MicroPython  
-- Created a live dashboard that monitors environmental data (temperature, humidity, PIR, IR , DHT11, LDR ) using Raspberry Pi and RP2020 Pico  
+- Created a live dashboard that monitors environmental data (temperature, humidity, PIR, IR, DHT11, LDR ) using Raspberry Pi and RP2040 Pico W 
 - Implemented MicroPython-based firmware on Pico to collect sensor data and communicate via MQTT  
 - Built backend logic in Python to aggregate readings and push alerts through Firebase Cloud Messaging  
 - Achieved seamless low-latency communication across devices, with real-time plotting on a hosted web dashboard  
