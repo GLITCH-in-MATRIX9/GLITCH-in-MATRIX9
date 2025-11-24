@@ -3,7 +3,7 @@
 
 A **B.Tech CSE student** with a passion for **Web Development**, **IOT** and **UI/UX**. I’m always exploring new skills and sharing my journey on GitHub. Let’s build, design, and innovate together!
 
-I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.webflow.io/)
+I'm a freelancer as well — [Click to see my portfolio](https://anjalidass.vercel.app/)
 
 ---
 
